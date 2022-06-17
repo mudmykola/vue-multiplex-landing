@@ -10,7 +10,7 @@ module.exports = {
         container: {
             center: true,
             padding: {
-                DEFAULT: '1rem',
+                DEFAULT: '1rem', //16px
                 sm: '3rem',
                 lg: '4rem',
                 xl: '10rem,'
@@ -24,6 +24,7 @@ module.exports = {
                 300: '#06C2AE',
                 400: '#000000',
                 500: '#1C1C1C',
+                'hoverBtn': '#c82906',
 
             },
 
