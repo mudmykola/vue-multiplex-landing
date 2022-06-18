@@ -16,7 +16,7 @@
                 <rect x="1" y="1" width="24" height="47" rx="12" stroke="white" stroke-width="2" />
                 <circle cx="13" cy="11" r="5" fill="#FF0000" />
             </svg>
-            <p class="text-center  text-200 pt-2 font-bold">Scroll</p>
+            <p class="text-center  text-200 pt-2 font-bold">Вниз</p>
         </div>
         <!-- end scroll -->
     </section>
